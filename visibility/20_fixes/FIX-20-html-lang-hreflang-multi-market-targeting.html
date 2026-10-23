@@ -1,0 +1,18 @@
+# FIX-20: Multi-Market Language & Regional Targeting (US, UK, IN)
+
+- **Category:** International SEO & hreflang
+- **Target Page:** Sitewide <head> Elements
+- **Priority:** P2 - Medium
+- **Problem Identified:** IncuBrix targets creators across US, UK, and India, but lacks explicit regional hreflang alternate declarations and currency localizations.
+- **Evidence from Live Audit:** <html> tag contains only generic lang='en' without alternate market regionalization.
+- **Validation Benchmark:** W3C Internationalization Checker & Google hreflang Validation
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- International Market Alternate Declarations -->
+<link rel="alternate" hreflang="x-default" href="https://incubrix.com/">
+<link rel="alternate" hreflang="en-us" href="https://incubrix.com/">
+<link rel="alternate" hreflang="en-gb" href="https://incubrix.com/">
+<link rel="alternate" hreflang="en-in" href="https://incubrix.com/">
+```

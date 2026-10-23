@@ -1,0 +1,19 @@
+# FIX-08: Self-Referential Canonical URL Normalization
+
+- **Category:** Metadata & Indexation
+- **Target Page:** Sitewide Template Header
+- **Priority:** P1 - High
+- **Problem Identified:** Several subpages omit canonical link tags or use relative paths, risking duplicate content penalty across edge protocol variants (http vs https, trailing slash vs non-trailing slash).
+- **Evidence from Live Audit:** Subpage audit reveals inconsistent rel='canonical' definitions across static pages.
+- **Validation Benchmark:** W3C HTML5 Validator & Google Search Console URL Inspection Protocol
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- In page <head> section: Ensure dynamic or static absolute canonical URL -->
+<link rel="canonical" href="https://incubrix.com/">
+<!-- For subpages, use exact canonical path without .html extension -->
+<!-- Example for /how-it-works: <link rel="canonical" href="https://incubrix.com/how-it-works"> -->
+<!-- Example for /pricing: <link rel="canonical" href="https://incubrix.com/pricing"> -->
+<!-- Example for /faq: <link rel="canonical" href="https://incubrix.com/faq"> -->
+```

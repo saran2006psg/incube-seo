@@ -1,0 +1,21 @@
+# FIX-17: Image Dimension Attributes and Descriptive Alt Tags (Fix CLS)
+
+- **Category:** Core Web Vitals & Image SEO
+- **Target Page:** Sitewide Template Images
+- **Priority:** P2 - Medium
+- **Problem Identified:** Logo and preview images lack explicit width and height attributes in CSS/HTML, causing visual layout shifts as images load.
+- **Evidence from Live Audit:** incubrix_home.html line 15: <link rel='icon' href='...'> and logo inline SVGs lack reserved aspect-ratio boxes.
+- **Validation Benchmark:** Google Lighthouse CLS Metric (Target: 0.00)
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- Prevent Layout Shift with explicit dimensions and keyword-descriptive alt text -->
+<img src="https://incubrix.com/assets/incubrix-logo.jpg"
+     alt="IncuBrix AI Creator Studio Logo"
+     width="160"
+     height="40"
+     loading="eager"
+     decoding="async"
+     style="aspect-ratio: 4 / 1; height: auto;">
+```

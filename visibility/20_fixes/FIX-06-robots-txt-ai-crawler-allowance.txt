@@ -1,0 +1,49 @@
+# FIX-06: Optimized robots.txt with Explicit AI Crawler Permissions
+
+- **Category:** Robots & Crawl Directives
+- **Target Page:** https://incubrix.com/robots.txt
+- **Priority:** P1 - High
+- **Problem Identified:** Current robots.txt has generic 2-line directive without explicit declarations for AI assistants (GPTBot, ClaudeBot, PerplexityBot) and lacks reference to /llms.txt.
+- **Evidence from Live Audit:** curl.exe -s https://incubrix.com/robots.txt contains only User-agent: * Allow: / Sitemap: https://incubrix.com/sitemap.xml
+- **Validation Benchmark:** Google Search Console Robots.txt Tester & Perplexity Crawler Guidelines
+
+## Ready-to-Paste Code / Text Block
+
+```text
+# IncuBrix Production robots.txt
+# Comprehensive Search Engine & AI Assistant Discovery Directives
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /cdn-cgi/
+
+# Explicit Allowance for Leading AI Assistants & Answer Engines
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Canonical Sitemaps & LLM Knowledge Endpoints
+Sitemap: https://incubrix.com/sitemap.xml
+Sitemap: https://incubrix.com/sitemap-content-hub.xml
+# AI Context Manifest
+# LLMs-txt: https://incubrix.com/llms.txt
+```

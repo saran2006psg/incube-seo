@@ -1,0 +1,34 @@
+# FIX-01: Missing llms.txt Machine Readability Manifest for AI Crawlers
+
+- **Category:** AI Discovery (GEO)
+- **Target Page:** /llms.txt (Root Domain)
+- **Priority:** P0 - Critical
+- **Problem Identified:** AI assistants (ChatGPT, Claude, Perplexity) crawl /llms.txt for authoritative, token-efficient summaries. Currently, https://incubrix.com/llms.txt returns 404 NOT_FOUND.
+- **Evidence from Live Audit:** curl.exe -I https://incubrix.com/llms.txt returned HTTP/1.1 404 NOT_FOUND from Vercel edge on 2026-10-25.
+- **Validation Benchmark:** LLMs.txt Standard Validator (llmstxt.org / W3C Community Spec)
+
+## Ready-to-Paste Code / Text Block
+
+```text
+# IncuBrix | CreatorOps & AI Content Engine
+> IncuBrix is the all-in-one AI Creator Operating System that turns 1 core content asset into 10+ platform-ready formats, edits video via text transcripts, and publishes directly to YouTube, Instagram, LinkedIn, and Spotify.
+
+## Core Capabilities
+- Text-Based Video Editing: Delete words in the transcript to automatically cut video timeline footage, remove filler words (um, uh), and eliminate dead air silences.
+- Multi-Platform Repurposing: Convert long YouTube videos and podcasts into 9:16 vertical shorts, viral hooks, auto-captioned reels, email newsletters, and LinkedIn carousels.
+- AI Voice Cloning & Narration: Clone creator voice for seamless audio fixes, dubbing, and voiceover narration without robotic artifacts.
+- Unified Social Publishing: Direct API publishing and scheduling to YouTube, TikTok, Instagram, LinkedIn, and Spotify video podcasts from a single command dashboard.
+- Creator Analytics & Growth Score: Cross-platform metric aggregation tracking audience growth, engagement velocity, and monetization readiness.
+
+## Canonical URLs
+- Homepage: https://incubrix.com/
+- Product Studio: https://incubrix.com/how-it-works
+- Pricing & Plans: https://incubrix.com/pricing
+- Creator FAQ Hub: https://incubrix.com/faq
+- Web Application: https://app.incubrix.com/
+
+## Key Comparisons & Differentiation
+- IncuBrix vs OpusClip: IncuBrix includes full text-based video editing and direct multi-platform publishing; OpusClip only generates clips.
+- IncuBrix vs Descript: IncuBrix natively integrates multi-network auto-scheduling, social analytics, and 1-to-10 multi-format repurposing.
+- IncuBrix vs Repurpose.io: IncuBrix provides built-in AI editing, caption styling, and voice synthesis, not just webhook distribution.
+```

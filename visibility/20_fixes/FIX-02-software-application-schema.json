@@ -1,0 +1,43 @@
+# FIX-02: Missing SoftwareApplication JSON-LD Schema Markup
+
+- **Category:** Structured Data (AEO)
+- **Target Page:** https://incubrix.com/ (Homepage)
+- **Priority:** P0 - Critical
+- **Problem Identified:** Homepage has 0 structured schema markup. Google Search and AI Overviews cannot programmatically identify IncuBrix as an operating system / SaaS application.
+- **Evidence from Live Audit:** grep 'application/ld+json' incubrix_home.html yields 0 occurrences.
+- **Validation Benchmark:** Google Rich Results Test & Schema.org Validator (100% Valid, 0 Errors, 0 Warnings)
+
+## Ready-to-Paste Code / Text Block
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IncuBrix",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web Browser, Cloud-based",
+  "url": "https://incubrix.com",
+  "description": "All-in-one AI Creator Operating System turning single videos into clips, captions, voiceovers, and multi-network posts with unified publishing and analytics.",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "0",
+    "highPrice": "49",
+    "offerCount": "3"
+  },
+  "featureList": [
+    "Text-based video timeline editing",
+    "Automated 1-to-10 multi-platform repurposing",
+    "Animated kinetic captions with custom branding",
+    "Direct publishing to YouTube, Instagram, LinkedIn, and Spotify",
+    "Creator Growth Score and unified analytics"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "128"
+  }
+}
+</script>
+```

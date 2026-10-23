@@ -1,0 +1,35 @@
+# FIX-03: Missing Organization Schema Markup with SameAs Identity Links
+
+- **Category:** Structured Data (GEO / Entity SEO)
+- **Target Page:** https://incubrix.com/ (Sitewide Global Header)
+- **Priority:** P0 - Critical
+- **Problem Identified:** Search engines and LLM Knowledge Graphs require definitive entity reconciliation to establish IncuBrix Private Limited as the verified authority.
+- **Evidence from Live Audit:** incubrix_home.html contains raw LinkedIn and Instagram links but lacks entity schema linking legal corporate entity to digital footprints.
+- **Validation Benchmark:** Schema.org Official Validator
+
+## Ready-to-Paste Code / Text Block
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "IncuBrix Private Limited",
+  "legalName": "IncuBrix Private Limited",
+  "url": "https://incubrix.com",
+  "logo": "https://incubrix.com/assets/incubrix-logo.jpg",
+  "email": "contact@incubrix.com",
+  "sameAs": [
+    "https://linkedin.com/company/incubrix",
+    "https://www.instagram.com/incubrix_official",
+    "https://www.facebook.com/people/IncuBrix/61583095167915/"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@incubrix.com",
+    "contactType": "Customer Support",
+    "availableLanguage": ["English"]
+  }
+}
+</script>
+```

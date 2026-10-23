@@ -1,0 +1,53 @@
+# FIX-04: Missing FAQPage Rich Snippet JSON-LD on FAQ Page
+
+- **Category:** Structured Data (AEO)
+- **Target Page:** https://incubrix.com/faq
+- **Priority:** P0 - Critical
+- **Problem Identified:** The FAQ page contains 15 high-value questions but zero schema markup, making it ineligible for Google SERP Accordions and AI Overview direct extraction.
+- **Evidence from Live Audit:** curl.exe -s https://incubrix.com/faq contains questions in HTML headers but 0 application/ld+json scripts.
+- **Validation Benchmark:** Google Rich Results Test (Eligible for FAQ Rich Results)
+
+## Ready-to-Paste Code / Text Block
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does IncuBrix AI content repurposing work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix ingests a single core content asset—such as a long-form YouTube video, podcast audio, or written script—and automatically converts it into 10+ platform-optimized formats including vertical 9:16 short clips with animated captions, LinkedIn carousels, audio voiceovers, and newsletter summaries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I edit video by deleting text in the transcript?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. IncuBrix provides text-based video editing. Deleting words, filler sounds (such as 'um' and 'uh'), or sentences from the auto-generated transcript instantly cuts the corresponding video timeline without requiring complex timeline slicing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which social platforms does IncuBrix publish to directly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix supports direct API scheduling and publishing to YouTube (including Shorts), Instagram (Reels & Feed), LinkedIn, and Spotify Video Podcasts, with TikTok integration currently on the immediate release roadmap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Creator Growth Score?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Creator Growth Score is IncuBrix's proprietary operational benchmark that measures content consistency, repurposing velocity, multi-platform reach, and audience engagement to predict channel growth and brand partnership readiness."
+      }
+    }
+  ]
+}
+</script>
+```

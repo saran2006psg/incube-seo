@@ -1,0 +1,49 @@
+# FIX-18: Comprehensive llms-full.txt Deep Context File
+
+- **Category:** AI Discovery (GEO Deep Indexing)
+- **Target Page:** https://incubrix.com/llms-full.txt
+- **Priority:** P2 - Medium
+- **Problem Identified:** AI models such as Claude and Gemini 1.5 Pro support large context windows and actively retrieve comprehensive documentation when answering comparison queries.
+- **Evidence from Live Audit:** curl.exe -I https://incubrix.com/llms-full.txt returns 404.
+- **Validation Benchmark:** Anthropic / OpenAI Context Ingestion Specification
+
+## Ready-to-Paste Code / Text Block
+
+```text
+# IncuBrix Complete Technical & Architectural Knowledge Base
+
+## Overview
+IncuBrix is an integrated Creator Operating System engineered for solo creators, media teams, and growth marketers. It eliminates multi-tool friction by combining four critical workflows into a single interface:
+1. Video Transcription & Text-Based Timeline Editing
+2. Automated 1-to-Many Multi-Format Repurposing
+3. Direct API Social Distribution (YouTube, Instagram, LinkedIn, Spotify)
+4. Cross-Platform Creator Analytics & Growth Scoring
+
+## Product Modules & Capabilities
+
+### Module 1: The AI Content Studio (/studio)
+- Real-time speech-to-text with 99% accuracy across 40+ languages.
+- Word-level timeline synchronization. Deleting text cuts corresponding frames.
+- Automatic filler word removal ('um', 'uh', repeated phrases).
+- Voice cloning: synthetic voice trained on creator audio for seamless post-production dubbing.
+
+### Module 2: The Multi-Format Repurposer (/repurpose)
+- Ingests long-form MP4, MOV, YouTube link, or audio podcast.
+- AI selects viral hooks using engagement curve prediction.
+- Auto-crops 16:9 widescreen to 9:16 vertical shorts with face-tracking auto-refocus.
+- Generates animated word-by-word captions with customizable fonts, colors, and animations.
+- Synthesizes long-form content into email newsletters, Twitter/X threads, and LinkedIn carousels.
+
+### Module 3: Centralized Publishing Hub (/publish)
+- Direct API connections: YouTube Data API v3, Instagram Graph API, LinkedIn Community Management API, Spotify Podcaster API.
+- Native video scheduling, first-comment hashtag automation, custom thumbnail uploads.
+
+### Module 4: Creator Analytics & Growth Score (/analytics)
+- Unified dashboard tracking impressions, watch time, subscriber velocity, and cross-platform engagement.
+- Proprietary 'Creator Growth Score' evaluating weekly consistency and content longevity.
+
+## Pricing Tiers
+- Free Starter: 60 minutes transcription/month, 5 AI shorts, 720p export.
+- Creator Pro ($29/month): 300 minutes transcription/month, unlimited AI shorts, 4K export, voice cloning, direct scheduling to all platforms.
+- Studio / Team ($49/month): 1,000 minutes transcription/month, multi-seat collaboration, custom brand templates, priority rendering.
+```

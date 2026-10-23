@@ -1,0 +1,33 @@
+# FIX-16: BreadcrumbList JSON-LD Schema Markup
+
+- **Category:** Structured Data (SERP Appearance)
+- **Target Page:** Sitewide Subpages (/about, /pricing, /how-it-works, /faq)
+- **Priority:** P2 - Medium
+- **Problem Identified:** SERP snippets for internal pages show bare URLs instead of structured hierarchical breadcrumbs.
+- **Evidence from Live Audit:** Google SERP simulation displays https://incubrix.com/pricing rather than IncuBrix > Pricing.
+- **Validation Benchmark:** Google Rich Results Test (Breadcrumb Valid)
+
+## Ready-to-Paste Code / Text Block
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://incubrix.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Pricing",
+      "item": "https://incubrix.com/pricing"
+    }
+  ]
+}
+</script>
+```

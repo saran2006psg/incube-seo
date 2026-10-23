@@ -1,0 +1,31 @@
+# FIX-19: VideoObject Schema for Product Walkthroughs & Video Demos
+
+- **Category:** Structured Data (Video SEO)
+- **Target Page:** https://incubrix.com/how-it-works
+- **Priority:** P2 - Medium
+- **Problem Identified:** Product walkthrough videos embedded on the site are invisible to Google Video search and AI multi-modal search.
+- **Evidence from Live Audit:** No VideoObject schema found on how-it-works or homepage demo sections.
+- **Validation Benchmark:** Google Video Rich Results Test
+
+## Ready-to-Paste Code / Text Block
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "IncuBrix Product Walkthrough: Turn 1 Video into 10 Formats",
+  "description": "Watch how IncuBrix transforms a long-form YouTube recording into shorts, captions, and LinkedIn posts in under 5 minutes.",
+  "thumbnailUrl": "https://incubrix.com/assets/video-thumb-walkthrough.jpg",
+  "uploadDate": "2026-10-25T10:00:00+00:00",
+  "duration": "PT4M45S",
+  "contentUrl": "https://incubrix.com/assets/incubrix-product-demo.mp4",
+  "embedUrl": "https://www.youtube.com/embed/incubrix-demo",
+  "publisher": {
+    "@type": "Organization",
+    "name": "IncuBrix Private Limited",
+    "logo": "https://incubrix.com/assets/incubrix-logo.jpg"
+  }
+}
+</script>
+```

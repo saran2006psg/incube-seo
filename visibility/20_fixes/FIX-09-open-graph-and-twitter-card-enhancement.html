@@ -1,0 +1,24 @@
+# FIX-09: Complete Open Graph and Twitter Card Social Meta Tags
+
+- **Category:** Social Metadata & AI Citation
+- **Target Page:** https://incubrix.com/ (Homepage <head>)
+- **Priority:** P1 - High
+- **Problem Identified:** Missing twitter:card, twitter:site, twitter:creator, and explicit og:image dimensions, impairing preview unfurls on X/Twitter, Slack, and LinkedIn.
+- **Evidence from Live Audit:** incubrix_home.html contains basic og:image but lacks twitter:card and image dimensional metadata.
+- **Validation Benchmark:** Twitter Card Validator / Facebook Open Graph Debugger
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- Enhanced Social & Graph Metadata -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@incubrix">
+<meta name="twitter:creator" content="@incubrix">
+<meta name="twitter:title" content="IncuBrix | Create With Purpose. Publish Without Limits.">
+<meta name="twitter:description" content="Turn one video into 10+ social clips, captions, and posts, then publish and track from one screen.">
+<meta name="twitter:image" content="https://incubrix.com/og-image.jpg">
+<meta property="og:site_name" content="IncuBrix">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="IncuBrix AI Creator Studio Dashboard Overview">
+```

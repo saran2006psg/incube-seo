@@ -1,0 +1,33 @@
+# FIX-13: Semantic Heading Hierarchy Standardization (Single H1 Enforcement)
+
+- **Category:** Semantic HTML & Architecture
+- **Target Page:** Sitewide Template Layouts
+- **Priority:** P1 - High
+- **Problem Identified:** Heading levels jump across sections without maintaining strict H1 -> H2 -> H3 hierarchy, impairing semantic DOM parsing by search spiders.
+- **Evidence from Live Audit:** Subpage audit reveals multiple pages where kicker divs precede H1 or jump from H1 directly into H3 cards.
+- **Validation Benchmark:** W3C Nu HTML Checker & WAVE Web Accessibility Evaluation Tool
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- Strict Semantic Heading Hierarchy Template -->
+<!-- Exactly 1 H1 per page: -->
+<header class="hero">
+  <span class="kicker-pill">AI CREATOR OPERATING SYSTEM</span>
+  <h1 class="grad">Create With Purpose. Publish Without Limits.</h1>
+  <p class="sub">IncuBrix turns one piece of content into clips, captions, voiceovers, and multi-platform posts.</p>
+</header>
+
+<!-- Main Sections use H2: -->
+<section class="section" aria-labelledby="features-heading">
+  <h2 id="features-heading">One studio. Four superpowers.</h2>
+  <div class="cards">
+    <!-- Sub-features use H3: -->
+    <article class="card">
+      <span class="idx">01</span>
+      <h3>Know what to create next</h3>
+      <p>Analyze trends and generate high-retention content ideas tailored to your unique voice.</p>
+    </article>
+  </div>
+</section>
+```

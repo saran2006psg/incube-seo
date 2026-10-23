@@ -1,0 +1,23 @@
+# FIX-10: Core Web Vitals Optimization: Font-Display Swap & Preconnect
+
+- **Category:** Page Speed & Core Web Vitals
+- **Target Page:** https://incubrix.com/ (Sitewide <head>)
+- **Priority:** P1 - High
+- **Problem Identified:** Google Fonts are loaded synchronously without &display=swap parameter on JetBrains Mono, leading to layout shift (CLS) and render blocking.
+- **Evidence from Live Audit:** incubrix_home.html line 18: href='...family=Inter:wght@400...&family=JetBrains+Mono:wght@400...&display=swap' but lacks dns-prefetch and crossorigin on Google font stylesheets.
+- **Validation Benchmark:** Google Lighthouse v12 (98+ Performance Score Target)
+
+## Ready-to-Paste Code / Text Block
+
+```html
+<!-- Optimized Preconnect and Non-Blocking Font Loading -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" media="print" onload="this.media='all'">
+<noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+</noscript>
+```
