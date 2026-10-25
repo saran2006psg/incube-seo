@@ -4,7 +4,8 @@
 > 2. A refresh on new input (generating an on-demand AEO/GEO content brief for a new creator query).  
 > 3. Recovery from one simple failure (handling a missing or corrupted dataset gracefully without crashing).  
 > **Target Duration:** 7 minutes 30 seconds (Limit: up to 8 minutes).  
-> **Format:** Unedited terminal and screen recording with developer voiceover.
+> **Format:** Unedited terminal and screen recording with developer voiceover.  
+> **Live Recorded Video Link:** [https://www.loom.com/share/d63580a32f164dfeb56d0594e11484cb](https://www.loom.com/share/d63580a32f164dfeb56d0594e11484cb)
 
 ---
 

@@ -128,6 +128,19 @@ def generate_brief_cmd(topic: str):
         print(f"  -> {link}")
     print("="*80)
 
+def test_recovery_cmd():
+    print_banner()
+    print("[*] Simulating failure scenario: External task points to missing dataset 'missing_dataset.csv'...")
+    try:
+        tracker = VisibilityTracker(questions_path="missing_dataset.csv")
+    except FileNotFoundError as e:
+        print(f"\n[EXPECTED FAILURE CAUGHT]: {e}")
+        print("[*] Activating automated recovery protocol...")
+        print("[*] Falling back to default verified dataset: visibility/visibility.csv...")
+        fallback_tracker = VisibilityTracker()
+        results = fallback_tracker.run_tracking(limit=3)
+        print(f"[+] SUCCESSFUL RECOVERY: Safely processed {len(results)} fallback questions with zero system downtime!")
+
 def main():
     parser = argparse.ArgumentParser(description="IncuBrix AEO, SEO & GEO Visibility Engine")
     subparsers = parser.add_subparsers(dest="command", help="Available subcommands")
@@ -143,6 +156,9 @@ def main():
     
     # Programmatic command
     prog_parser = subparsers.add_parser("programmatic", help="Build 100+ programmatic pages")
+
+    # Recovery demo command
+    rec_parser = subparsers.add_parser("test-recovery", help="Demonstrate failure handling and graceful fallback recovery")
     
     args = parser.parse_args()
     
@@ -157,6 +173,8 @@ def main():
         print("[*] Generating 100+ Programmatic Content Pages from Matrix Template...")
         count = build_programmatic_pages()
         print(f"[+] Successfully generated {count} quality-checked programmatic pages!")
+    elif args.command == "test-recovery":
+        test_recovery_cmd()
     else:
         parser.print_help()
 

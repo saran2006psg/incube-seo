@@ -528,6 +528,8 @@ def build_video_scripts_pdf():
     story.append(HRFlowable(width="100%", thickness=2, color=SECONDARY, spaceAfter=14))
 
     story.append(Paragraph("Video 1: Product Walkthrough Script (Target Duration: 4m 45s)", styles["Heading1"]))
+    story.append(Paragraph("<b>Live Loom Recording:</b> <a href='https://www.loom.com/share/3d29db9012e9452e8129bef847be5815' color='#0066cc'><u>https://www.loom.com/share/3d29db9012e9452e8129bef847be5815</u></a>", styles["Body"]))
+    story.append(Spacer(1, 4))
     story.append(Paragraph("<b>[00:00 - 00:45] Intro:</b> Introduce IncuBrix's core premise—unifying text video editing, 1-to-10 repurposing, and direct publishing into one Creator OS.", styles["Body"]))
     story.append(Paragraph("<b>[00:45 - 02:45] 5 Observations:</b> Walk through subdomain fragmentation, 308 redirect hops, zero schema markup, missing llms.txt, and competitor snippet dominance.", styles["Body"]))
     story.append(Paragraph("<b>[02:45 - 04:15] 3 Opportunities:</b> Detail the AEO Answer Hub, Head-to-Head Comparison Engine, and 120-page Programmatic Knowledge Ingestion.", styles["Body"]))
@@ -535,6 +537,8 @@ def build_video_scripts_pdf():
     story.append(Spacer(1, 14))
 
     story.append(Paragraph("Video 2: Technical Demo Script (Target Duration: 7m 30s)", styles["Heading1"]))
+    story.append(Paragraph("<b>Live Loom Recording:</b> <a href='https://www.loom.com/share/d63580a32f164dfeb56d0594e11484cb' color='#0066cc'><u>https://www.loom.com/share/d63580a32f164dfeb56d0594e11484cb</u></a>", styles["Body"]))
+    story.append(Spacer(1, 4))
     story.append(Paragraph("<b>[00:00 - 00:45] Setup:</b> Show README one clear run command and modular engine architecture.", styles["Body"]))
     story.append(Paragraph("<b>[00:45 - 03:15] Segment 1 (Normal Run):</b> Run <code>python engine/main.py run --quick</code>. Explain deduplication, execution speed (0.001s), cost at scale ($0.019/query), and auto-generated weekly report.", styles["Body"]))
     story.append(Paragraph("<b>[03:15 - 05:30] Segment 2 (Refresh on New Input):</b> Run <code>python engine/main.py brief \"How to repurpose webinar into shorts\"</code>. Showcase automated keyword extraction, schema, and 2-sentence direct answer blueprint.", styles["Body"]))

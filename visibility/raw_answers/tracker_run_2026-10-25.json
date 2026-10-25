@@ -49,5 +49,39 @@
       "Repurpose.io"
     ],
     "raw_response_snippet": "Top answer quotes opus.pro. Recommended AI tools: OpusClip, Munch, Repurpose.io."
+  },
+  {
+    "qid": "Q004",
+    "date": "2026-10-25",
+    "google_rank": ">100",
+    "answer_box_present": true,
+    "answer_box_domain": "opus.pro",
+    "chatgpt_mentions": false,
+    "gemini_mentions": false,
+    "perplexity_mentions": false,
+    "claude_mentions": false,
+    "top_competitors": [
+      "OpusClip",
+      "Munch",
+      "Repurpose.io"
+    ],
+    "raw_response_snippet": "Top answer quotes opus.pro. Recommended AI tools: OpusClip, Munch, Repurpose.io."
+  },
+  {
+    "qid": "Q005",
+    "date": "2026-10-25",
+    "google_rank": ">100",
+    "answer_box_present": true,
+    "answer_box_domain": "descript.com",
+    "chatgpt_mentions": false,
+    "gemini_mentions": false,
+    "perplexity_mentions": false,
+    "claude_mentions": false,
+    "top_competitors": [
+      "Descript",
+      "CapCut",
+      "VEED.io"
+    ],
+    "raw_response_snippet": "Top answer quotes descript.com. Recommended AI tools: Descript, CapCut, VEED.io."
   }
 ]
