@@ -28,7 +28,7 @@ def populate_workbook():
     ws0 = wb["00_START"]
     ws0["B5"] = "GE-2027-OPT3-0492"
     ws0["B6"] = "Saran M"
-    ws0["B7"] = "saran2006psg@gmail.com"
+    ws0["B7"] = "24n435@psgtech.ac.in"
     ws0["B8"] = "PSG College of Technology, B.E."
     ws0["B9"] = "2026-10-22 10:00"
     ws0["B10"] = "2026-10-25 19:15"
