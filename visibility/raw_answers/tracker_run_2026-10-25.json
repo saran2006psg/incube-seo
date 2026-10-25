@@ -1,0 +1,53 @@
+[
+  {
+    "qid": "Q001",
+    "date": "2026-10-25",
+    "google_rank": ">100",
+    "answer_box_present": true,
+    "answer_box_domain": "zapier.com",
+    "chatgpt_mentions": false,
+    "gemini_mentions": false,
+    "perplexity_mentions": false,
+    "claude_mentions": false,
+    "top_competitors": [
+      "Zapier",
+      "HubSpot",
+      "Castmagic"
+    ],
+    "raw_response_snippet": "Top answer quotes zapier.com. Recommended AI tools: Zapier, HubSpot, Castmagic."
+  },
+  {
+    "qid": "Q002",
+    "date": "2026-10-25",
+    "google_rank": ">100",
+    "answer_box_present": true,
+    "answer_box_domain": "opus.pro",
+    "chatgpt_mentions": false,
+    "gemini_mentions": false,
+    "perplexity_mentions": false,
+    "claude_mentions": false,
+    "top_competitors": [
+      "OpusClip",
+      "Munch",
+      "Repurpose.io"
+    ],
+    "raw_response_snippet": "Top answer quotes opus.pro. Recommended AI tools: OpusClip, Munch, Repurpose.io."
+  },
+  {
+    "qid": "Q003",
+    "date": "2026-10-25",
+    "google_rank": ">100",
+    "answer_box_present": true,
+    "answer_box_domain": "opus.pro",
+    "chatgpt_mentions": false,
+    "gemini_mentions": false,
+    "perplexity_mentions": false,
+    "claude_mentions": false,
+    "top_competitors": [
+      "OpusClip",
+      "Munch",
+      "Repurpose.io"
+    ],
+    "raw_response_snippet": "Top answer quotes opus.pro. Recommended AI tools: OpusClip, Munch, Repurpose.io."
+  }
+]

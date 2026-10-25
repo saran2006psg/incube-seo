@@ -1,0 +1,5098 @@
+[
+  {
+    "qid": "Q001",
+    "date": "2026-10-25",
+    "query": "How to turn one YouTube video into 10 social media posts automatically?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q001",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q002",
+    "date": "2026-10-25",
+    "query": "Best AI tool to turn long video into TikTok and YouTube Shorts",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q002",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q003",
+    "date": "2026-10-25",
+    "query": "How do creators repurpose a podcast episode into LinkedIn carousel posts?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q003",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q004",
+    "date": "2026-10-25",
+    "query": "Can AI automatically clip viral moments from podcasts?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q004",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q005",
+    "date": "2026-10-25",
+    "query": "How to convert video transcript into email newsletter format with AI?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q005",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q006",
+    "date": "2026-10-25",
+    "query": "What is the fastest way to turn YouTube videos into Twitter threads?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q006",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q007",
+    "date": "2026-10-25",
+    "query": "How to repurpose long webinar recordings into bite-sized reels?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q007",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q008",
+    "date": "2026-10-25",
+    "query": "Best tool to convert horizontal 16:9 video to vertical 9:16 shorts automatically",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q008",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q009",
+    "date": "2026-10-25",
+    "query": "How to slice 1 hour video into short clips without manual editing?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q009",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q010",
+    "date": "2026-10-25",
+    "query": "Can AI generate social captions directly from video dialogue?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q010",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q011",
+    "date": "2026-10-25",
+    "query": "How to make multi-platform content from a single recording session?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q011",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q012",
+    "date": "2026-10-25",
+    "query": "Best software to convert audio podcasts to audiograms with captions",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q012",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q013",
+    "date": "2026-10-25",
+    "query": "How to create Instagram Reels from YouTube videos without watermark",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q013",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q014",
+    "date": "2026-10-25",
+    "query": "What AI tool generates blog posts directly from video audio?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q014",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q015",
+    "date": "2026-10-25",
+    "query": "How to build an automated content repurposing workflow for solo creators?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q015",
+        "https://munch.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Munch",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q016",
+    "date": "2026-10-25",
+    "query": "How to edit video by deleting words in the transcript?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q016",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q017",
+    "date": "2026-10-25",
+    "query": "Best text-based video editors for creators in 2026",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q017",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q018",
+    "date": "2026-10-25",
+    "query": "How does transcript-based video editing work?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q018",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q019",
+    "date": "2026-10-25",
+    "query": "Can AI remove filler words like um and uh from video automatically?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q019",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q020",
+    "date": "2026-10-25",
+    "query": "How to edit a video podcast without Premiere Pro or Final Cut?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q020",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q021",
+    "date": "2026-10-25",
+    "query": "Best AI video editing tools for beginners with no video skills",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q021",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q022",
+    "date": "2026-10-25",
+    "query": "How to cut out silence and dead air from videos automatically",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q022",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q023",
+    "date": "2026-10-25",
+    "query": "Can AI highlight key talking points from an interview video?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q023",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q024",
+    "date": "2026-10-25",
+    "query": "How to trim video footage using voice search or transcript search?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q024",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q025",
+    "date": "2026-10-25",
+    "query": "Best AI tool for jump cut editing in YouTube videos",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q025",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q026",
+    "date": "2026-10-25",
+    "query": "How to edit talking head videos 10x faster using AI?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q026",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q027",
+    "date": "2026-10-25",
+    "query": "What tools automatically detect speaker changes in multi-person video podcasts?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q027",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q028",
+    "date": "2026-10-25",
+    "query": "How to auto-refocus camera angle on active speaker in horizontal video",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q028",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q029",
+    "date": "2026-10-25",
+    "query": "Is there an AI tool that cleans up audio noise and normalizes voice levels?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q029",
+        "https://capcut.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "CapCut",
+          "VEED.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q030",
+    "date": "2026-10-25",
+    "query": "How to add MrBeast style animated captions to short videos?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q030",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q031",
+    "date": "2026-10-25",
+    "query": "Best AI tool for 99% accurate video auto-captions and timestamps",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q031",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q032",
+    "date": "2026-10-25",
+    "query": "How to burn animated subtitles directly into MP4 video?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q032",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q033",
+    "date": "2026-10-25",
+    "query": "Can AI translate video captions into Spanish, French, and Hindi automatically?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q033",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q034",
+    "date": "2026-10-25",
+    "query": "How to fix punctuation and speaker names in auto-generated captions?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q034",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q035",
+    "date": "2026-10-25",
+    "query": "Best free and paid auto caption generators for TikTok and Reels",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q035",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q036",
+    "date": "2026-10-25",
+    "query": "How to export SRT and VTT subtitle files from any video link",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q036",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q037",
+    "date": "2026-10-25",
+    "query": "Can AI generate kinetic typography captions that bounce with speech?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q037",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q038",
+    "date": "2026-10-25",
+    "query": "How to caption short-form video in bulk without manual typing?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q038",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q039",
+    "date": "2026-10-25",
+    "query": "Best tool for multi-speaker color-coded video captions",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "capcut.com",
+      "top_organic_urls": [
+        "https://capcut.com/blog/q039",
+        "https://submagic.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "CapCut",
+          "Submagic",
+          "AutoCap"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q040",
+    "date": "2026-10-25",
+    "query": "How to publish one short video to YouTube, TikTok, and Instagram simultaneously?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q040",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q041",
+    "date": "2026-10-25",
+    "query": "Best all-in-one platform to schedule videos to YouTube, Instagram, and LinkedIn",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q041",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q042",
+    "date": "2026-10-25",
+    "query": "How to automate cross-posting from YouTube to LinkedIn without manual reuploading?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q042",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q043",
+    "date": "2026-10-25",
+    "query": "Can I schedule YouTube Shorts and Instagram Reels from one dashboard?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q043",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q044",
+    "date": "2026-10-25",
+    "query": "Best social media management tool with built-in AI video creator",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q044",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q045",
+    "date": "2026-10-25",
+    "query": "How to avoid shadowban when cross-posting identical videos across social platforms?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q045",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q046",
+    "date": "2026-10-25",
+    "query": "What tool allows direct video publishing to Spotify video podcasts?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q046",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q047",
+    "date": "2026-10-25",
+    "query": "How to schedule first comment and hashtags automatically when posting shorts?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q047",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q048",
+    "date": "2026-10-25",
+    "query": "Best tool for scheduling LinkedIn video posts with custom thumbnails",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q048",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q049",
+    "date": "2026-10-25",
+    "query": "How to batch schedule a month of video content in one afternoon?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "buffer.com",
+      "top_organic_urls": [
+        "https://buffer.com/blog/q049",
+        "https://later.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Buffer",
+          "Later",
+          "Hootsuite"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q050",
+    "date": "2026-10-25",
+    "query": "How to train AI on your own writing style for authentic social captions?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q050",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q051",
+    "date": "2026-10-25",
+    "query": "Best AI voice cloning tools for creator narration and voiceovers",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q051",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q052",
+    "date": "2026-10-25",
+    "query": "Can AI write YouTube video hooks that increase retention?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q052",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q053",
+    "date": "2026-10-25",
+    "query": "How to generate realistic voiceovers from text without sounding robotic?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q053",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q054",
+    "date": "2026-10-25",
+    "query": "Best AI tool for generating viral hooks and video titles",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q054",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q055",
+    "date": "2026-10-25",
+    "query": "How do top creators use AI without making content feel cheap or automated?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q055",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q056",
+    "date": "2026-10-25",
+    "query": "Can AI generate complete podcast outlines and interview questions?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q056",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q057",
+    "date": "2026-10-25",
+    "query": "How to turn a rough brain dump or voice memo into polished LinkedIn post?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q057",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q058",
+    "date": "2026-10-25",
+    "query": "Best tool for creating faceless YouTube videos with AI voice and b-roll",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q058",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q059",
+    "date": "2026-10-25",
+    "query": "How to clone your own voice for quick audio fixes in video podcasts?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "elevenlabs.io",
+      "top_organic_urls": [
+        "https://elevenlabs.io/blog/q059",
+        "https://tuganai.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "ElevenLabs",
+          "Tugan.ai",
+          "Copy.ai"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q060",
+    "date": "2026-10-25",
+    "query": "What is CreatorOps and how do creators organize their content pipeline?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q060",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q061",
+    "date": "2026-10-25",
+    "query": "How to track audience growth across YouTube, Instagram, and LinkedIn in one screen?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q061",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q062",
+    "date": "2026-10-25",
+    "query": "What metrics indicate a creator is ready to monetize with brand partnerships?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q062",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q063",
+    "date": "2026-10-25",
+    "query": "Best creator operating system to manage content calendar and production",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q063",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q064",
+    "date": "2026-10-25",
+    "query": "How to measure content ROI when repurposing videos across 5 networks?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q064",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q065",
+    "date": "2026-10-25",
+    "query": "How to calculate engagement rate consistently across different social platforms?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q065",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q066",
+    "date": "2026-10-25",
+    "query": "What is a Creator Growth Score and how is content consistency measured?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q066",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q067",
+    "date": "2026-10-25",
+    "query": "How to manage a team of video editors, writers, and VA from a single creator hub?",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q067",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q068",
+    "date": "2026-10-25",
+    "query": "Best software for managing brand sponsorship deliverables and media kit metrics",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q068",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q069",
+    "date": "2026-10-25",
+    "query": "How solo content creators produce 20+ videos per week without burning out",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q069",
+        "https://tubebuddy.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Notion Creator OS",
+          "TubeBuddy",
+          "VidIQ"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q070",
+    "date": "2026-10-25",
+    "query": "IncuBrix vs OpusClip which is better for content repurposing?",
+    "market": "US",
+    "google_serp": {
+      "position": "1",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q070",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q071",
+    "date": "2026-10-25",
+    "query": "IncuBrix vs Repurpose.io comparison for automated social publishing",
+    "market": "US",
+    "google_serp": {
+      "position": "1",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q071",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q072",
+    "date": "2026-10-25",
+    "query": "IncuBrix vs Descript which tool is better for podcast video editing?",
+    "market": "UK",
+    "google_serp": {
+      "position": "1",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q072",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q073",
+    "date": "2026-10-25",
+    "query": "Best OpusClip alternatives for clipping long videos into vertical shorts",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q073",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q074",
+    "date": "2026-10-25",
+    "query": "Best Repurpose.io alternatives with built-in AI editing and captions",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q074",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q075",
+    "date": "2026-10-25",
+    "query": "Descript alternatives for text-based video editing and multi-platform publishing",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q075",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q076",
+    "date": "2026-10-25",
+    "query": "OpusClip vs Munch vs Vizard: which AI clipping tool is best?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q076",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q077",
+    "date": "2026-10-25",
+    "query": "Castmagic vs Podsqueeze for podcast repurposing and show notes",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q077",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q078",
+    "date": "2026-10-25",
+    "query": "Tugan.ai vs IncuBrix for converting content to newsletters and social copy",
+    "market": "IN",
+    "google_serp": {
+      "position": "1",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q078",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q079",
+    "date": "2026-10-25",
+    "query": "Buffer vs Hootsuite vs all-in-one creator platforms for video scheduling",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q079",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q080",
+    "date": "2026-10-25",
+    "query": "CapCut vs AI auto-clippers: which creates better viral shorts?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q080",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q081",
+    "date": "2026-10-25",
+    "query": "Is there an all in one tool that replaces Descript, OpusClip, and Buffer?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q081",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q082",
+    "date": "2026-10-25",
+    "query": "Best tools for content creators to scale without an agency",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q082",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q083",
+    "date": "2026-10-25",
+    "query": "IncuBrix pricing and review: is it worth it for solo creators?",
+    "market": "IN",
+    "google_serp": {
+      "position": "1",
+      "has_featured_snippet": true,
+      "quoted_domain": "incubrix.com",
+      "top_organic_urls": [
+        "https://incubrix.com/blog/q083",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": true,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q084",
+    "date": "2026-10-25",
+    "query": "Top 5 AI tools every serious content creator needs in 2026",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q084",
+        "https://repurposeio.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Repurpose.io",
+          "Descript"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q085",
+    "date": "2026-10-25",
+    "query": "How to automate podcast show notes and social posts with one click",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q085",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q086",
+    "date": "2026-10-25",
+    "query": "How to repurpose Zoom client calls into marketing clips with permission",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q086",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q087",
+    "date": "2026-10-25",
+    "query": "How to extract quotes and carousels from long video interviews",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q087",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q088",
+    "date": "2026-10-25",
+    "query": "How to add subtitles in 5 different languages to one YouTube video",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q088",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q089",
+    "date": "2026-10-25",
+    "query": "How to turn written blog posts into engaging short vertical video scripts",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q089",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q090",
+    "date": "2026-10-25",
+    "query": "How to maintain consistent brand fonts and colors across auto-generated captions",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q090",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q091",
+    "date": "2026-10-25",
+    "query": "How to repurpose live stream recordings into 15 TikTok clips in under 10 minutes",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q091",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q092",
+    "date": "2026-10-25",
+    "query": "How to schedule video posts to Instagram and TikTok at optimal times using AI",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q092",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q093",
+    "date": "2026-10-25",
+    "query": "How to create an end-to-end AI content repurposing pipeline for YouTube channels",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q093",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q094",
+    "date": "2026-10-25",
+    "query": "How to convert keynote presentation slides and audio into viral LinkedIn posts",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "opus.pro",
+      "top_organic_urls": [
+        "https://opus.pro/blog/q094",
+        "https://descript.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "OpusClip",
+          "Descript",
+          "Repurpose.io"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q095",
+    "date": "2026-10-25",
+    "query": "Can AI voiceovers be monetized on YouTube and TikTok in 2026?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q095",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q096",
+    "date": "2026-10-25",
+    "query": "How to prevent AI hallucination when generating factual social media summaries",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q096",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q097",
+    "date": "2026-10-25",
+    "query": "What are the best video aspect ratio converter tools that keep face centered?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q097",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q098",
+    "date": "2026-10-25",
+    "query": "How to auto-generate video chapters and timestamps for YouTube descriptions",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q098",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q099",
+    "date": "2026-10-25",
+    "query": "How to turn a 30-minute interview into a complete 5-day social media campaign",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q099",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q100",
+    "date": "2026-10-25",
+    "query": "Best AI platform for podcasters who want to grow on YouTube Shorts and Reels",
+    "market": "UK",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q100",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q101",
+    "date": "2026-10-25",
+    "query": "How to edit video audio directly in browser without downloading huge files",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q101",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q102",
+    "date": "2026-10-25",
+    "query": "What is the best workflow to turn voice memos on phone into published LinkedIn articles?",
+    "market": "IN",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q102",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q103",
+    "date": "2026-10-25",
+    "query": "How to automate content distribution across 4 platforms without third party watermarks",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q103",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  },
+  {
+    "qid": "Q104",
+    "date": "2026-10-25",
+    "query": "Which AI tool offers the best combination of video editing, repurposing, and scheduling?",
+    "market": "US",
+    "google_serp": {
+      "position": ">100",
+      "has_featured_snippet": true,
+      "quoted_domain": "descript.com",
+      "top_organic_urls": [
+        "https://descript.com/blog/q104",
+        "https://elevenlabs.com/guide"
+      ]
+    },
+    "ai_assistants": {
+      "chatgpt_4o": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "gemini_1_5_pro": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "perplexity_sonar": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      },
+      "claude_3_5_sonnet": {
+        "mentions_incubrix": false,
+        "cited_tools": [
+          "Descript",
+          "ElevenLabs",
+          "OpusClip"
+        ]
+      }
+    }
+  }
+]
