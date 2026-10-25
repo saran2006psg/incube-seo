@@ -62,11 +62,12 @@ def run_pipeline(limit=None, quick=False):
     for comp, pct in score.competitor_share_of_voice.items():
         print(f"    - {comp:15s}: {pct}%")
         
-    # Write Weekly Markdown Report
-    reports_dir = os.path.join(os.path.dirname(__file__), "..", "reports")
+    # Write Weekly Reports (Both Markdown and PDF)
+    reports_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "reports"))
     os.makedirs(reports_dir, exist_ok=True)
-    report_filename = f"weekly_visibility_report_{datetime.now().strftime('%Y-%m-%d')}.md"
-    report_path = os.path.join(reports_dir, report_filename)
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    report_filename = f"weekly_visibility_report_{today_str}.md"
+    report_path = os.path.normpath(os.path.join(reports_dir, report_filename))
     
     with open(report_path, "w", encoding="utf-8") as f:
         f.write("# IncuBrix Weekly AEO & GEO Visibility Report\n\n")
@@ -87,7 +88,20 @@ def run_pipeline(limit=None, quick=False):
         f.write("## Competitor Share of Voice\n\n")
         for comp, pct in score.competitor_share_of_voice.items():
             f.write(f"- **{comp}**: {pct}%\n")
-    print(f"\n[+] Generated Weekly Visibility Report: {report_path}")
+            
+    # Compile Automated PDF Report
+    pdf_filename = f"weekly_visibility_report_{today_str}.pdf"
+    pdf_path = os.path.normpath(os.path.join(reports_dir, pdf_filename))
+    try:
+        from engine.pdf_report import generate_weekly_pdf
+        generate_weekly_pdf(score, tracker, pdf_path)
+        pdf_generated = True
+    except Exception as e:
+        pdf_generated = False
+        
+    print(f"\n[+] Generated Weekly Visibility Report (Markdown): {report_path}")
+    if pdf_generated:
+        print(f"[+] Generated Weekly Visibility Report (PDF):      {pdf_path}")
 
 def generate_brief_cmd(topic: str):
     print_banner()
