@@ -1,7 +1,8 @@
 # Video 1: Product & Market Walkthrough (Under 5 Minutes)
 > **Goal:** Present the IncuBrix product audit, 5 verified observations, and 3 high-impact search and AI-visibility opportunities in a clear, compelling, professional walkthrough.  
 > **Target Duration:** 4 minutes 45 seconds (Limit: up to 5 minutes).  
-> **Format:** Unedited screen recording with creator voiceover / talking head webcam in corner.
+> **Format:** Unedited screen recording with creator voiceover / talking head webcam in corner.  
+> **Live Recorded Video Link:** [https://www.loom.com/share/3d29db9012e9452e8129bef847be5815](https://www.loom.com/share/3d29db9012e9452e8129bef847be5815)
 
 ---
 

@@ -25,7 +25,7 @@ python engine/main.py run
 | **2. Main Output** | Visibility baseline (104 questions), raw answers, 20 fixes, 10 pages, 30 citations | `visibility/` | 104 Qs, 20 Fixes, 10 Pages, 30 Targets |
 | **3. Visibility Engine** | Automated tracking engine, scoring, brief generator, tests, scheduler | `engine/` | Pytest 6/6 Pass, Zero Secrets |
 | **4. Launch Kit** | Actionable 90-day execution plan, RACI, budget ($255 total), Monday checklist | `launch_kit/LAUNCH_KIT.md` | Launch Ready for Monday |
-| **5. Two Short Videos** | Timed scripts and rehearsal packages for product walkthrough (5m) & tech demo (8m) | `video_scripts/` | Word-for-Word Scripts & Actions |
+| **5. Two Short Videos** | Video 1 (Product Walkthrough): [Loom Recording](https://www.loom.com/share/3d29db9012e9452e8129bef847be5815)<br>Video 2 (Technical Demo): [Script & Rehearsal Package](video_scripts/02_technical_demo_8min.md) | `video_scripts/` | Word-for-Word Scripts & Actions |
 | **Exceptional Result** | Programmatic page generator template with 120 quality-checked pages | `visibility/programmatic_pages/` | 120 Pages Generated |
 
 ---
